@@ -1,2 +1,14 @@
-# python-data-analysis
-Python data analysis project including data cleaning, exploration, and insights using pandas and matplotlib.
+# Python Data Analysis Project
+
+## Project Overview
+This project focuses on analyzing sales data using Python to extract meaningful insights.
+
+## Key Tasks
+- Data cleaning using pandas
+- Exploratory Data Analysis (EDA)
+- Basic visualizations
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
